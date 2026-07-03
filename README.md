@@ -8,4 +8,4 @@ O site criado tem o objetivo de visualizar a historia de vida de Ada Lovelace, u
 - CSS
 - JavaScript
 
-[![Viste o site](https://img.shields.io/badge/Link%20do%20Site%20%20-8A71C9?style=for-the-badge)](https://brunasilva701.github.io/EuProgrAmo-AdaLovelace/)
+[![Viste o site](https://img.shields.io/badge/Visite%20o%20Site%20%20-8A71C9?style=for-the-badge)](https://brunasilva701.github.io/EuProgrAmo-AdaLovelace/)
